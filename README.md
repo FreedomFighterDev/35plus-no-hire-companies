@@ -32,7 +32,7 @@ Feel free to submit pull requests or open issues to add more companies to the li
 | Company Name        | Industry       | Remarks          |
 |---------------------|----------------|------------------|
 | Example Corp        | Technology     | Publicly announced hiring age limit |
-|  阿里      |   商业、科技    | 基本不招聘大于35岁以上员工  |
+|  xx公司      |   商业、科技    | 基本不招聘大于35岁以上员工  |
 |         |     |  |
 |         |     |  |
 |         |     |  |
