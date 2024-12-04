@@ -28,16 +28,16 @@ We hope that everyone can participate in this initiative and help drive change. 
 ## Contributing
 Feel free to submit pull requests or open issues to add more companies to the list.
 
-#35plus-no-hire-companies
+# 35plus-no-hire-companies
 中国拒绝招聘35岁及以上员工的企业名单。中国拒绝招聘35岁及以上员工的企业名单
-#35+ No Hire Companies
+# 35+ No Hire Companies
 该资料库旨在记录中国拒绝招聘35岁及以上员工的企业。
 
-##目标
+## 目标
 -提高对职场年龄歧视的认识。
 -为求职者提供避免此类公司的参考。
 
-###请填写并报告拒绝雇用35岁以上员工的公司
+### 请填写并报告拒绝雇用35岁以上员工的公司
 为了保护中国工人的基本人权，避免职场年龄歧视，我们呼吁中国工人参与并列出基于年龄歧视并明确拒绝雇用35岁以上员工的公司。我们旨在通过以下步骤采取有效行动：
 
 列出公司：请列出您知道的任何明确声明不雇用35岁以上员工的公司。无论是在公开的招聘信息中还是公司内部的招聘政策中，我们都想了解这些公司。
